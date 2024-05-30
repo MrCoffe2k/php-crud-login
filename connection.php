@@ -5,10 +5,10 @@
  * using mysqli_connect instead
  */
 
-$databaseHost = 'localhost';
+$databaseHost = 'rud-users-cloud.mysql.database.azure.com';
 $databaseName = 'crud_with_login';
-$databaseUsername = 'anuj';
-$databasePassword = '123456';
+$databaseUsername = 'U19052194';
+$databasePassword = 'CloudComputing2024!';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 	
